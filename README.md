@@ -23,6 +23,6 @@ console.log('hello')
 
 他的网站是 [他的官网](https://fangyinghang.com)
 
-![一张图片](1.png)
+![一张图片](1.PNG)
 
 
